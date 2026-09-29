@@ -1,0 +1,58 @@
+app,slug,category,developer,listing_url,rating,rating_count,plan,price_usd_monthly,annual_usd_per_month,limits,price_source,checked
+Zipify OCU (One Click Upsell),zipify-oneclickupsell,upsell,Zipify Apps,https://apps.shopify.com/zipify-oneclickupsell,4.6,565,Development Stores,0,,For development and partner stores only,https://apps.shopify.com/zipify-oneclickupsell,2026-09-28
+Zipify OCU (One Click Upsell),zipify-oneclickupsell,upsell,Zipify Apps,https://apps.shopify.com/zipify-oneclickupsell,4.6,565,Upsell up to $200,9.95,,Starting tier while upsell revenue is up to $200/month,https://apps.shopify.com/zipify-oneclickupsell,2026-09-28
+Zipify OCU (One Click Upsell),zipify-oneclickupsell,upsell,Zipify Apps,https://apps.shopify.com/zipify-oneclickupsell,4.6,565,"Upsell $200-2,500",25,,"Price steps from $25 to $99 as monthly upsell revenue rises from $200 to $2,500 (step table not on listing)",https://apps.shopify.com/zipify-oneclickupsell,2026-09-28
+Zipify OCU (One Click Upsell),zipify-oneclickupsell,upsell,Zipify Apps,https://apps.shopify.com/zipify-oneclickupsell,4.6,565,"Upsell $2,500+",149,,Steps up with upsell revenue; listing says never above $999,https://apps.shopify.com/zipify-oneclickupsell,2026-09-28
+ReConvert (Upsell.co),reconvert-upsell-cross-sell,upsell,Upsell.co,https://apps.shopify.com/reconvert-upsell-cross-sell,4.8,3094,Free,0,,Up to 50 orders or $50 upsell revenue per month,https://apps.shopify.com/reconvert-upsell-cross-sell,2026-09-28
+ReConvert (Upsell.co),reconvert-upsell-cross-sell,upsell,Upsell.co,https://apps.shopify.com/reconvert-upsell-cross-sell,4.8,3094,Growth,9.99,,"Up to 2,000 monthly orders or upsell revenue (higher of the two); from 51 orders",https://apps.shopify.com/reconvert-upsell-cross-sell,2026-09-28
+ReConvert (Upsell.co),reconvert-upsell-cross-sell,upsell,Upsell.co,https://apps.shopify.com/reconvert-upsell-cross-sell,4.8,3094,Scale,199,,"Up to 10,000 monthly orders or upsell revenue",https://apps.shopify.com/reconvert-upsell-cross-sell,2026-09-28
+ReConvert (Upsell.co),reconvert-upsell-cross-sell,upsell,Upsell.co,https://apps.shopify.com/reconvert-upsell-cross-sell,4.8,3094,Elite,499,,"Up to 20,000 monthly orders or upsell revenue",https://apps.shopify.com/reconvert-upsell-cross-sell,2026-09-28
+AfterSell,aftersell,upsell,Rokt,https://apps.shopify.com/aftersell,4.8,1063,Development Stores,0,,Development and partner stores only,https://apps.shopify.com/aftersell,2026-09-28
+AfterSell,aftersell,upsell,Rokt,https://apps.shopify.com/aftersell,4.8,1063,Post-Purchase,34.99,,,https://apps.shopify.com/aftersell,2026-09-28
+AfterSell,aftersell,upsell,Rokt,https://apps.shopify.com/aftersell,4.8,1063,Pre-Purchase,59.99,,,https://apps.shopify.com/aftersell,2026-09-28
+AfterSell,aftersell,upsell,Rokt,https://apps.shopify.com/aftersell,4.8,1063,Complete,79.99,,,https://apps.shopify.com/aftersell,2026-09-28
+Judge.me,judgeme,reviews,Judge.me,https://apps.shopify.com/judgeme,5,47623,Forever Free,0,,Unlimited product and store reviews incl. photo/video,https://apps.shopify.com/judgeme,2026-09-28
+Judge.me,judgeme,reviews,Judge.me,https://apps.shopify.com/judgeme,5,47623,Awesome,15,,,https://apps.shopify.com/judgeme,2026-09-28
+Loox,loox,reviews,Loox,https://apps.shopify.com/loox,4.9,9703,Beginner,0,,Up to 500 orders,https://apps.shopify.com/loox,2026-09-28
+Loox,loox,reviews,Loox,https://apps.shopify.com/loox,4.9,9703,Convert,49.99,,300 orders included; $50 per additional 300 orders,https://apps.shopify.com/loox,2026-09-28
+Loox,loox,reviews,Loox,https://apps.shopify.com/loox,4.9,9703,Unlimited,299.99,,Unlimited,https://apps.shopify.com/loox,2026-09-28
+Yotpo Reviews,yotpo-social-reviews,reviews,Yotpo,https://apps.shopify.com/yotpo-social-reviews,4.8,4627,Free,0,,Up to 50 monthly orders,https://apps.shopify.com/yotpo-social-reviews,2026-09-28
+Yotpo Reviews,yotpo-social-reviews,reviews,Yotpo,https://apps.shopify.com/yotpo-social-reviews,4.8,4627,Starter,15,12,Price changes with order volume (ladder not on listing),https://apps.shopify.com/yotpo-social-reviews,2026-09-28
+Yotpo Reviews,yotpo-social-reviews,reviews,Yotpo,https://apps.shopify.com/yotpo-social-reviews,4.8,4627,Pro,119,89,Price changes with order volume (ladder not on listing),https://apps.shopify.com/yotpo-social-reviews,2026-09-28
+Klaviyo,klaviyo-email-marketing,email-sms,Klaviyo,https://apps.shopify.com/klaviyo-email-marketing,4.7,3331,Free,0,,Email free for up to 250 contacts; SMS free for up to 150 credits,https://apps.shopify.com/klaviyo-email-marketing,2026-09-28
+Klaviyo,klaviyo-email-marketing,email-sms,Klaviyo,https://apps.shopify.com/klaviyo-email-marketing,4.7,3331,SMS,15,,"Up to 1,250 SMS/MMS credits incl. carrier fees",https://apps.shopify.com/klaviyo-email-marketing,2026-09-28
+Klaviyo,klaviyo-email-marketing,email-sms,Klaviyo,https://apps.shopify.com/klaviyo-email-marketing,4.7,3331,Email,20,,251-500 contacts; scales with list size (ladder not on listing),https://apps.shopify.com/klaviyo-email-marketing,2026-09-28
+Omnisend,omnisend,email-sms,Omnisend,https://apps.shopify.com/omnisend,4.7,3186,Free,0,,"250 contacts, 500 emails/month",https://apps.shopify.com/omnisend,2026-09-28
+Omnisend,omnisend,email-sms,Omnisend,https://apps.shopify.com/omnisend,4.7,3186,Standard,16,,"Starts at up to 500 contacts, 6,000 emails/month; rises with list size",https://apps.shopify.com/omnisend,2026-09-28
+Omnisend,omnisend,email-sms,Omnisend,https://apps.shopify.com/omnisend,4.7,3186,Pro,59,,"Starts at up to 2,500 contacts, unlimited emails; rises with list size; SMS from $0.007/message",https://apps.shopify.com/omnisend,2026-09-28
+Privy,privy,email-sms,Privy Operations,https://apps.shopify.com/privy,4.5,4211,Pop Ups & Displays,24,,"Based on monthly pageviews, from up to 10,000",https://apps.shopify.com/privy,2026-09-28
+Privy,privy,email-sms,Privy Operations,https://apps.shopify.com/privy,4.5,4211,Email,30,,"Up to 1,500 email contacts",https://apps.shopify.com/privy,2026-09-28
+Privy,privy,email-sms,Privy Operations,https://apps.shopify.com/privy,4.5,4211,Email and SMS,45,,"Up to 1,500 email contacts and 1,250 SMS credits",https://apps.shopify.com/privy,2026-09-28
+AutoDS,autods,dropshipping,AutoDS,https://apps.shopify.com/autods,4.5,1318,Import 200,26.9,20.72,200 products,https://apps.shopify.com/autods,2026-09-28
+AutoDS,autods,dropshipping,AutoDS,https://apps.shopify.com/autods,4.5,1318,Starter 500,39.9,30.72,500 products,https://apps.shopify.com/autods,2026-09-28
+AutoDS,autods,dropshipping,AutoDS,https://apps.shopify.com/autods,4.5,1318,Advanced 1K,66.9,50.73,"1,000 products, 3 stores",https://apps.shopify.com/autods,2026-09-28
+DSers,dsers,dropshipping,DSers,https://apps.shopify.com/dsers,5,6278,Basic,0,,Free plan,https://apps.shopify.com/dsers,2026-09-28
+DSers,dsers,dropshipping,DSers,https://apps.shopify.com/dsers,5,6278,Advanced,19.9,15.9,Extra fee if product usage exceeds the limit for the usage level (contact support),https://apps.shopify.com/dsers,2026-09-28
+DSers,dsers,dropshipping,DSers,https://apps.shopify.com/dsers,5,6278,Pro,49.9,39.9,Extra fee if product usage exceeds the limit,https://apps.shopify.com/dsers,2026-09-28
+Zendrop,zendrop,dropshipping,Zendrop,https://apps.shopify.com/zendrop,4.5,1255,Free,0,,No linked products,https://apps.shopify.com/zendrop,2026-09-28
+Zendrop,zendrop,dropshipping,Zendrop,https://apps.shopify.com/zendrop,4.5,1255,Beginner,29,,1-20 linked products,https://apps.shopify.com/zendrop,2026-09-28
+Zendrop,zendrop,dropshipping,Zendrop,https://apps.shopify.com/zendrop,4.5,1255,Pro,49,,21-100 linked products,https://apps.shopify.com/zendrop,2026-09-28
+Zendrop,zendrop,dropshipping,Zendrop,https://apps.shopify.com/zendrop,4.5,1255,Plus,79,,101+ linked products,https://apps.shopify.com/zendrop,2026-09-28
+Printful,printful,print-on-demand,Printful,https://apps.shopify.com/printful,4.8,3900,Free Plan,0,,,https://apps.shopify.com/printful,2026-09-28
+Printful,printful,print-on-demand,Printful,https://apps.shopify.com/printful,4.8,3900,Growth Plan,24.99,,Up to 33% off products; free once yearly sales reach $12K; 90-day trial offered,https://apps.shopify.com/printful,2026-09-28
+Printify,printify,print-on-demand,Printify,https://apps.shopify.com/printify,4.7,4331,Free,0,,5 stores; product and shipping billed only on sale,https://apps.shopify.com/printify,2026-09-28
+Printify,printify,print-on-demand,Printify,https://apps.shopify.com/printify,4.7,4331,Premium,39,24.99,10 stores; up to 33% product discount,https://apps.shopify.com/printify,2026-09-28
+Gelato,gelato-print-on-demand,print-on-demand,Gelato,https://apps.shopify.com/gelato-print-on-demand,4.8,1009,Gelato Free,0,,,https://apps.shopify.com/gelato-print-on-demand,2026-09-28
+Gelato,gelato-print-on-demand,print-on-demand,Gelato,https://apps.shopify.com/gelato-print-on-demand,4.8,1009,Gelato+,29.99,19.99,Up to 33% off products,https://apps.shopify.com/gelato-print-on-demand,2026-09-28
+GemPages,gempages,page-builder,GEMCOMMER,https://apps.shopify.com/gempages,4.9,4248,Free,0,,1 published page,https://apps.shopify.com/gempages,2026-09-28
+GemPages,gempages,page-builder,GEMCOMMER,https://apps.shopify.com/gempages,4.9,4248,Build,29,,Unlimited published pages,https://apps.shopify.com/gempages,2026-09-28
+GemPages,gempages,page-builder,GEMCOMMER,https://apps.shopify.com/gempages,4.9,4248,Optimize,59,,Adds sales funnels and post-purchase upsell,https://apps.shopify.com/gempages,2026-09-28
+GemPages,gempages,page-builder,GEMCOMMER,https://apps.shopify.com/gempages,4.9,4248,Enterprise,199,,,https://apps.shopify.com/gempages,2026-09-28
+PageFly,pagefly,page-builder,PageFly,https://apps.shopify.com/pagefly,4.9,5896,Free,0,,1 published slot; 10 AI credits/month,https://apps.shopify.com/pagefly,2026-09-28
+PageFly,pagefly,page-builder,PageFly,https://apps.shopify.com/pagefly,4.9,5896,Builder,24,,From 5 published pages/sections; $5 per 5 extra slots,https://apps.shopify.com/pagefly,2026-09-28
+PageFly,pagefly,page-builder,PageFly,https://apps.shopify.com/pagefly,4.9,5896,Accelerate,99,82.5,Unlimited pages; 400 AI credits/month,https://apps.shopify.com/pagefly,2026-09-28
+PageFly,pagefly,page-builder,PageFly,https://apps.shopify.com/pagefly,4.9,5896,Enterprise,299,,"1,600 AI credits/month for 1 store",https://apps.shopify.com/pagefly,2026-09-28
+Shogun Landing Page Builder,shogun,page-builder,Shogun,https://apps.shopify.com/shogun,4.8,1966,Draft Mode,0,,"Drafts only, no publishing",https://apps.shopify.com/shogun,2026-09-28
+Shogun Landing Page Builder,shogun,page-builder,Shogun,https://apps.shopify.com/shogun,4.8,1966,Build,39,31,25 published pages,https://apps.shopify.com/shogun,2026-09-28
+Shogun Landing Page Builder,shogun,page-builder,Shogun,https://apps.shopify.com/shogun,4.8,1966,Grow,199,159,Unlimited published pages,https://apps.shopify.com/shogun,2026-09-28
+Shogun Landing Page Builder,shogun,page-builder,Shogun,https://apps.shopify.com/shogun,4.8,1966,Advanced,499,399,"Unlimited pages, store syncing",https://apps.shopify.com/shogun,2026-09-28

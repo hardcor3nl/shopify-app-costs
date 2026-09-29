@@ -1,0 +1,5 @@
+{"checked":"2026-09-28","currency":"USD","note":"Derived by us from the plan data; see METHOD.md. Excludes per-order product/shipping costs, payment fees, and contact-tiered email.",
+"stacks":[
+{"name":"Dropshipping starter","apps":["DSers Advanced","ReConvert","Judge.me Forever Free","GemPages Free"],"monthly":{"100":29.89,"500":29.89,"2000":29.89}},
+{"name":"Upsell-heavy brand","apps":["AfterSell Post-Purchase","Loox","PageFly Builder"],"monthly":{"100":58.99,"500":58.99,"2000":358.98}},
+{"name":"Print-on-demand store","apps":["Printify Premium","Judge.me Awesome","ReConvert","PageFly Free"],"monthly":{"100":63.99,"500":63.99,"2000":63.99}}]}

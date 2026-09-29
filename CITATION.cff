@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the canonical page."
+type: dataset
+title: "Shopify App Costs"
+version: "2026-09-28"
+date-released: "2026-09-28"
+license: CC-BY-4.0
+url: "https://storecartel.com/shopify-app-cost-calculator/"
+abstract: "Monthly plan prices, limits and yearly-equivalent prices for 18 Shopify apps in six categories, each price read from the app's own Shopify App Store listing, plus three example app stacks priced at 100, 500 and 2,000 orders a month. Prices are list prices in USD on monthly billing with free trials ignored. The example stacks are derived by us from the plan data by the rule in METHOD.md."
+keywords:
+  - "Shopify app costs"
+  - "Shopify app pricing"
+  - "ecommerce app stack cost"
+authors:
+  - name: "StoreCartel editorial"
+    website: "https://storecartel.com/"

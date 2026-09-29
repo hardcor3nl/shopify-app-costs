@@ -1,0 +1,121 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "app",
+   "slug",
+   "category",
+   "listingUrl",
+   "rating",
+   "ratingCount",
+   "ratingSource",
+   "plans",
+   "sources",
+   "checked"
+  ],
+  "properties": {
+   "app": {
+    "type": "string"
+   },
+   "slug": {
+    "type": "string"
+   },
+   "category": {
+    "enum": [
+     "upsell",
+     "reviews",
+     "email-sms",
+     "dropshipping",
+     "print-on-demand",
+     "page-builder"
+    ]
+   },
+   "developer": {
+    "type": "string"
+   },
+   "listingUrl": {
+    "type": "string",
+    "format": "uri"
+   },
+   "rating": {
+    "type": [
+     "number",
+     "null"
+    ]
+   },
+   "ratingCount": {
+    "type": [
+     "integer",
+     "null"
+    ]
+   },
+   "ratingSource": {
+    "type": "string",
+    "format": "uri"
+   },
+   "plans": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "required": [
+      "plan",
+      "priceUsdMonthly",
+      "priceSource"
+     ],
+     "properties": {
+      "plan": {
+       "type": "string"
+      },
+      "priceUsdMonthly": {
+       "type": [
+        "number",
+        "null"
+       ]
+      },
+      "annualUsdPerMonth": {
+       "type": "number"
+      },
+      "annualNote": {
+       "type": "string"
+      },
+      "limits": {
+       "type": "string"
+      },
+      "usageRule": {
+       "type": "string"
+      },
+      "perOrderFees": {
+       "type": "string"
+      },
+      "trialDays": {
+       "type": "integer"
+      },
+      "priceSource": {
+       "type": "string",
+       "format": "uri"
+      }
+     }
+    }
+   },
+   "sources": {
+    "type": "array",
+    "items": {
+     "type": "string",
+     "format": "uri"
+    }
+   },
+   "checked": {
+    "type": "string",
+    "format": "date"
+   },
+   "notes": {
+    "type": [
+     "string",
+     "null"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,11 @@
+# Gaps (checked 2026-09-28)
+- CJ Dropshipping: not included. Shopify App Store slug not found (404 on guesses); cjdropshipping.com returned a human-verification page.
+- Gaps by design: no vendor-website check was made (listing only). Judge.me, Loox, GemPages, PageFly and CJ own pricing pages were not used (403/404/blocked or unnecessary).
+- Zipify OCU: revenue step table between $25 and $99 not on the listing; ladder null.
+- Yotpo Starter/Pro: order-volume ladder not on listing.
+- Klaviyo Email and Omnisend Standard/Pro, Privy Pop Ups: prices above the listed starting contact/pageview tier not captured; excluded from stacks.
+- DSers Advanced/Pro: product-limit numbers and overage fee not stated.
+- ReConvert Scale/Elite: annual figure on listing ("$149/year") is ambiguous; not converted.
+- Printful, Printify, Gelato: per-order product and shipping costs vary by product; not in dataset.
+- Shogun, Yotpo, Gelato and others: free-trial details captured only where shown on the listing.
+- Listings for Sellshop, Dropmagic, Sell The Trend, Zipify's other apps: not researched (outside the job's category list).

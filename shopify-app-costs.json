@@ -1,0 +1,681 @@
+[
+ {
+  "app": "Zipify OCU (One Click Upsell)",
+  "slug": "zipify-oneclickupsell",
+  "category": "upsell",
+  "developer": "Zipify Apps",
+  "listingUrl": "https://apps.shopify.com/zipify-oneclickupsell",
+  "rating": 4.6,
+  "ratingCount": 565,
+  "ratingSource": "https://apps.shopify.com/zipify-oneclickupsell",
+  "plans": [
+   {
+    "plan": "Development Stores",
+    "priceUsdMonthly": 0,
+    "limits": "For development and partner stores only",
+    "priceSource": "https://apps.shopify.com/zipify-oneclickupsell"
+   },
+   {
+    "plan": "Upsell up to $200",
+    "priceUsdMonthly": 9.95,
+    "usageRule": "Starting tier while upsell revenue is up to $200/month",
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/zipify-oneclickupsell"
+   },
+   {
+    "plan": "Upsell $200-2,500",
+    "priceUsdMonthly": 25,
+    "usageRule": "Price steps from $25 to $99 as monthly upsell revenue rises from $200 to $2,500 (step table not on listing)",
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/zipify-oneclickupsell"
+   },
+   {
+    "plan": "Upsell $2,500+",
+    "priceUsdMonthly": 149,
+    "usageRule": "Steps up with upsell revenue; listing says never above $999",
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/zipify-oneclickupsell"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/zipify-oneclickupsell"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Priced on upsell revenue, not order volume."
+ },
+ {
+  "app": "ReConvert (Upsell.co)",
+  "slug": "reconvert-upsell-cross-sell",
+  "category": "upsell",
+  "developer": "Upsell.co",
+  "listingUrl": "https://apps.shopify.com/reconvert-upsell-cross-sell",
+  "rating": 4.8,
+  "ratingCount": 3094,
+  "ratingSource": "https://apps.shopify.com/reconvert-upsell-cross-sell",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "Up to 50 orders or $50 upsell revenue per month",
+    "priceSource": "https://apps.shopify.com/reconvert-upsell-cross-sell"
+   },
+   {
+    "plan": "Growth",
+    "priceUsdMonthly": 9.99,
+    "limits": "Up to 2,000 monthly orders or upsell revenue (higher of the two); from 51 orders",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/reconvert-upsell-cross-sell"
+   },
+   {
+    "plan": "Scale",
+    "priceUsdMonthly": 199,
+    "limits": "Up to 10,000 monthly orders or upsell revenue",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/reconvert-upsell-cross-sell",
+    "annualNote": "Listing says 'or $149/year and save 94%'; unit ambiguous, not converted"
+   },
+   {
+    "plan": "Elite",
+    "priceUsdMonthly": 499,
+    "limits": "Up to 20,000 monthly orders or upsell revenue",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/reconvert-upsell-cross-sell",
+    "annualNote": "Listing says 'or $399/year and save 93%'; unit ambiguous, not converted"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/reconvert-upsell-cross-sell"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "AfterSell",
+  "slug": "aftersell",
+  "category": "upsell",
+  "developer": "Rokt",
+  "listingUrl": "https://apps.shopify.com/aftersell",
+  "rating": 4.8,
+  "ratingCount": 1063,
+  "ratingSource": "https://apps.shopify.com/aftersell",
+  "plans": [
+   {
+    "plan": "Development Stores",
+    "priceUsdMonthly": 0,
+    "limits": "Development and partner stores only",
+    "priceSource": "https://apps.shopify.com/aftersell"
+   },
+   {
+    "plan": "Post-Purchase",
+    "priceUsdMonthly": 34.99,
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/aftersell"
+   },
+   {
+    "plan": "Pre-Purchase",
+    "priceUsdMonthly": 59.99,
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/aftersell"
+   },
+   {
+    "plan": "Complete",
+    "priceUsdMonthly": 79.99,
+    "trialDays": 30,
+    "priceSource": "https://apps.shopify.com/aftersell"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/aftersell"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Judge.me",
+  "slug": "judgeme",
+  "category": "reviews",
+  "developer": "Judge.me",
+  "listingUrl": "https://apps.shopify.com/judgeme",
+  "rating": 5,
+  "ratingCount": 47623,
+  "ratingSource": "https://apps.shopify.com/judgeme",
+  "plans": [
+   {
+    "plan": "Forever Free",
+    "priceUsdMonthly": 0,
+    "limits": "Unlimited product and store reviews incl. photo/video",
+    "priceSource": "https://apps.shopify.com/judgeme"
+   },
+   {
+    "plan": "Awesome",
+    "priceUsdMonthly": 15,
+    "trialDays": 15,
+    "priceSource": "https://apps.shopify.com/judgeme"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/judgeme"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Loox",
+  "slug": "loox",
+  "category": "reviews",
+  "developer": "Loox",
+  "listingUrl": "https://apps.shopify.com/loox",
+  "rating": 4.9,
+  "ratingCount": 9703,
+  "ratingSource": "https://apps.shopify.com/loox",
+  "plans": [
+   {
+    "plan": "Beginner",
+    "priceUsdMonthly": 0,
+    "limits": "Up to 500 orders",
+    "priceSource": "https://apps.shopify.com/loox"
+   },
+   {
+    "plan": "Convert",
+    "priceUsdMonthly": 49.99,
+    "limits": "300 orders included; $50 per additional 300 orders",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/loox"
+   },
+   {
+    "plan": "Unlimited",
+    "priceUsdMonthly": 299.99,
+    "limits": "Unlimited",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/loox"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/loox"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Yotpo Reviews",
+  "slug": "yotpo-social-reviews",
+  "category": "reviews",
+  "developer": "Yotpo",
+  "listingUrl": "https://apps.shopify.com/yotpo-social-reviews",
+  "rating": 4.8,
+  "ratingCount": 4627,
+  "ratingSource": "https://apps.shopify.com/yotpo-social-reviews",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "Up to 50 monthly orders",
+    "priceSource": "https://apps.shopify.com/yotpo-social-reviews"
+   },
+   {
+    "plan": "Starter",
+    "priceUsdMonthly": 15,
+    "annualUsdPerMonth": 12,
+    "usageRule": "Price changes with order volume (ladder not on listing)",
+    "priceSource": "https://apps.shopify.com/yotpo-social-reviews"
+   },
+   {
+    "plan": "Pro",
+    "priceUsdMonthly": 119,
+    "annualUsdPerMonth": 89,
+    "usageRule": "Price changes with order volume (ladder not on listing)",
+    "priceSource": "https://apps.shopify.com/yotpo-social-reviews"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/yotpo-social-reviews"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Klaviyo",
+  "slug": "klaviyo-email-marketing",
+  "category": "email-sms",
+  "developer": "Klaviyo",
+  "listingUrl": "https://apps.shopify.com/klaviyo-email-marketing",
+  "rating": 4.7,
+  "ratingCount": 3331,
+  "ratingSource": "https://apps.shopify.com/klaviyo-email-marketing",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "Email free for up to 250 contacts; SMS free for up to 150 credits",
+    "priceSource": "https://apps.shopify.com/klaviyo-email-marketing"
+   },
+   {
+    "plan": "SMS",
+    "priceUsdMonthly": 15,
+    "limits": "Up to 1,250 SMS/MMS credits incl. carrier fees",
+    "priceSource": "https://apps.shopify.com/klaviyo-email-marketing"
+   },
+   {
+    "plan": "Email",
+    "priceUsdMonthly": 20,
+    "limits": "251-500 contacts; scales with list size (ladder not on listing)",
+    "priceSource": "https://apps.shopify.com/klaviyo-email-marketing"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/klaviyo-email-marketing"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Billed by Klaviyo separately from the Shopify invoice."
+ },
+ {
+  "app": "Omnisend",
+  "slug": "omnisend",
+  "category": "email-sms",
+  "developer": "Omnisend",
+  "listingUrl": "https://apps.shopify.com/omnisend",
+  "rating": 4.7,
+  "ratingCount": 3186,
+  "ratingSource": "https://apps.shopify.com/omnisend",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "250 contacts, 500 emails/month",
+    "priceSource": "https://apps.shopify.com/omnisend"
+   },
+   {
+    "plan": "Standard",
+    "priceUsdMonthly": 16,
+    "limits": "Starts at up to 500 contacts, 6,000 emails/month; rises with list size",
+    "priceSource": "https://apps.shopify.com/omnisend"
+   },
+   {
+    "plan": "Pro",
+    "priceUsdMonthly": 59,
+    "limits": "Starts at up to 2,500 contacts, unlimited emails; rises with list size; SMS from $0.007/message",
+    "priceSource": "https://apps.shopify.com/omnisend"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/omnisend"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Billed by Omnisend separately from the Shopify invoice."
+ },
+ {
+  "app": "Privy",
+  "slug": "privy",
+  "category": "email-sms",
+  "developer": "Privy Operations",
+  "listingUrl": "https://apps.shopify.com/privy",
+  "rating": 4.5,
+  "ratingCount": 4211,
+  "ratingSource": "https://apps.shopify.com/privy",
+  "plans": [
+   {
+    "plan": "Pop Ups & Displays",
+    "priceUsdMonthly": 24,
+    "usageRule": "Based on monthly pageviews, from up to 10,000",
+    "priceSource": "https://apps.shopify.com/privy"
+   },
+   {
+    "plan": "Email",
+    "priceUsdMonthly": 30,
+    "limits": "Up to 1,500 email contacts",
+    "priceSource": "https://apps.shopify.com/privy"
+   },
+   {
+    "plan": "Email and SMS",
+    "priceUsdMonthly": 45,
+    "limits": "Up to 1,500 email contacts and 1,250 SMS credits",
+    "priceSource": "https://apps.shopify.com/privy"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/privy"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Billed by Privy separately from the Shopify invoice."
+ },
+ {
+  "app": "AutoDS",
+  "slug": "autods",
+  "category": "dropshipping",
+  "developer": "AutoDS",
+  "listingUrl": "https://apps.shopify.com/autods",
+  "rating": 4.5,
+  "ratingCount": 1318,
+  "ratingSource": "https://apps.shopify.com/autods",
+  "plans": [
+   {
+    "plan": "Import 200",
+    "priceUsdMonthly": 26.9,
+    "annualUsdPerMonth": 20.72,
+    "limits": "200 products",
+    "trialDays": 3,
+    "priceSource": "https://apps.shopify.com/autods"
+   },
+   {
+    "plan": "Starter 500",
+    "priceUsdMonthly": 39.9,
+    "annualUsdPerMonth": 30.72,
+    "limits": "500 products",
+    "trialDays": 3,
+    "priceSource": "https://apps.shopify.com/autods"
+   },
+   {
+    "plan": "Advanced 1K",
+    "priceUsdMonthly": 66.9,
+    "annualUsdPerMonth": 50.73,
+    "limits": "1,000 products, 3 stores",
+    "trialDays": 3,
+    "priceSource": "https://apps.shopify.com/autods"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/autods"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "DSers",
+  "slug": "dsers",
+  "category": "dropshipping",
+  "developer": "DSers",
+  "listingUrl": "https://apps.shopify.com/dsers",
+  "rating": 5,
+  "ratingCount": 6278,
+  "ratingSource": "https://apps.shopify.com/dsers",
+  "plans": [
+   {
+    "plan": "Basic",
+    "priceUsdMonthly": 0,
+    "limits": "Free plan",
+    "priceSource": "https://apps.shopify.com/dsers"
+   },
+   {
+    "plan": "Advanced",
+    "priceUsdMonthly": 19.9,
+    "annualUsdPerMonth": 15.9,
+    "limits": "Extra fee if product usage exceeds the limit for the usage level (contact support)",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/dsers"
+   },
+   {
+    "plan": "Pro",
+    "priceUsdMonthly": 49.9,
+    "annualUsdPerMonth": 39.9,
+    "limits": "Extra fee if product usage exceeds the limit",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/dsers"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/dsers"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Zendrop",
+  "slug": "zendrop",
+  "category": "dropshipping",
+  "developer": "Zendrop",
+  "listingUrl": "https://apps.shopify.com/zendrop",
+  "rating": 4.5,
+  "ratingCount": 1255,
+  "ratingSource": "https://apps.shopify.com/zendrop",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "No linked products",
+    "priceSource": "https://apps.shopify.com/zendrop"
+   },
+   {
+    "plan": "Beginner",
+    "priceUsdMonthly": 29,
+    "limits": "1-20 linked products",
+    "priceSource": "https://apps.shopify.com/zendrop"
+   },
+   {
+    "plan": "Pro",
+    "priceUsdMonthly": 49,
+    "limits": "21-100 linked products",
+    "priceSource": "https://apps.shopify.com/zendrop"
+   },
+   {
+    "plan": "Plus",
+    "priceUsdMonthly": 79,
+    "limits": "101+ linked products",
+    "priceSource": "https://apps.shopify.com/zendrop"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/zendrop"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Billed by Zendrop separately from the Shopify invoice."
+ },
+ {
+  "app": "Printful",
+  "slug": "printful",
+  "category": "print-on-demand",
+  "developer": "Printful",
+  "listingUrl": "https://apps.shopify.com/printful",
+  "rating": 4.8,
+  "ratingCount": 3900,
+  "ratingSource": "https://apps.shopify.com/printful",
+  "plans": [
+   {
+    "plan": "Free Plan",
+    "priceUsdMonthly": 0,
+    "perOrderFees": "Printful charges for fulfilment and shipping only when a product sells",
+    "priceSource": "https://apps.shopify.com/printful"
+   },
+   {
+    "plan": "Growth Plan",
+    "priceUsdMonthly": 24.99,
+    "limits": "Up to 33% off products; free once yearly sales reach $12K; 90-day trial offered",
+    "priceSource": "https://apps.shopify.com/printful"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/printful"
+  ],
+  "checked": "2026-09-28",
+  "notes": "Product and shipping cost per order are not in the dataset (vary by product)."
+ },
+ {
+  "app": "Printify",
+  "slug": "printify",
+  "category": "print-on-demand",
+  "developer": "Printify",
+  "listingUrl": "https://apps.shopify.com/printify",
+  "rating": 4.7,
+  "ratingCount": 4331,
+  "ratingSource": "https://apps.shopify.com/printify",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "5 stores; product and shipping billed only on sale",
+    "priceSource": "https://apps.shopify.com/printify"
+   },
+   {
+    "plan": "Premium",
+    "priceUsdMonthly": 39,
+    "annualUsdPerMonth": 24.99,
+    "limits": "10 stores; up to 33% product discount",
+    "priceSource": "https://apps.shopify.com/printify"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/printify"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Gelato",
+  "slug": "gelato-print-on-demand",
+  "category": "print-on-demand",
+  "developer": "Gelato",
+  "listingUrl": "https://apps.shopify.com/gelato-print-on-demand",
+  "rating": 4.8,
+  "ratingCount": 1009,
+  "ratingSource": "https://apps.shopify.com/gelato-print-on-demand",
+  "plans": [
+   {
+    "plan": "Gelato Free",
+    "priceUsdMonthly": 0,
+    "perOrderFees": "Pay for production and shipping on sale",
+    "priceSource": "https://apps.shopify.com/gelato-print-on-demand"
+   },
+   {
+    "plan": "Gelato+",
+    "priceUsdMonthly": 29.99,
+    "annualUsdPerMonth": 19.99,
+    "limits": "Up to 33% off products",
+    "trialDays": 14,
+    "priceSource": "https://apps.shopify.com/gelato-print-on-demand"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/gelato-print-on-demand"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "GemPages",
+  "slug": "gempages",
+  "category": "page-builder",
+  "developer": "GEMCOMMER",
+  "listingUrl": "https://apps.shopify.com/gempages",
+  "rating": 4.9,
+  "ratingCount": 4248,
+  "ratingSource": "https://apps.shopify.com/gempages",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "1 published page",
+    "priceSource": "https://apps.shopify.com/gempages"
+   },
+   {
+    "plan": "Build",
+    "priceUsdMonthly": 29,
+    "limits": "Unlimited published pages",
+    "priceSource": "https://apps.shopify.com/gempages"
+   },
+   {
+    "plan": "Optimize",
+    "priceUsdMonthly": 59,
+    "limits": "Adds sales funnels and post-purchase upsell",
+    "priceSource": "https://apps.shopify.com/gempages"
+   },
+   {
+    "plan": "Enterprise",
+    "priceUsdMonthly": 199,
+    "priceSource": "https://apps.shopify.com/gempages"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/gempages"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "PageFly",
+  "slug": "pagefly",
+  "category": "page-builder",
+  "developer": "PageFly",
+  "listingUrl": "https://apps.shopify.com/pagefly",
+  "rating": 4.9,
+  "ratingCount": 5896,
+  "ratingSource": "https://apps.shopify.com/pagefly",
+  "plans": [
+   {
+    "plan": "Free",
+    "priceUsdMonthly": 0,
+    "limits": "1 published slot; 10 AI credits/month",
+    "priceSource": "https://apps.shopify.com/pagefly"
+   },
+   {
+    "plan": "Builder",
+    "priceUsdMonthly": 24,
+    "limits": "From 5 published pages/sections; $5 per 5 extra slots",
+    "priceSource": "https://apps.shopify.com/pagefly"
+   },
+   {
+    "plan": "Accelerate",
+    "priceUsdMonthly": 99,
+    "annualUsdPerMonth": 82.5,
+    "limits": "Unlimited pages; 400 AI credits/month",
+    "priceSource": "https://apps.shopify.com/pagefly"
+   },
+   {
+    "plan": "Enterprise",
+    "priceUsdMonthly": 299,
+    "limits": "1,600 AI credits/month for 1 store",
+    "priceSource": "https://apps.shopify.com/pagefly"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/pagefly"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ },
+ {
+  "app": "Shogun Landing Page Builder",
+  "slug": "shogun",
+  "category": "page-builder",
+  "developer": "Shogun",
+  "listingUrl": "https://apps.shopify.com/shogun",
+  "rating": 4.8,
+  "ratingCount": 1966,
+  "ratingSource": "https://apps.shopify.com/shogun",
+  "plans": [
+   {
+    "plan": "Draft Mode",
+    "priceUsdMonthly": 0,
+    "limits": "Drafts only, no publishing",
+    "priceSource": "https://apps.shopify.com/shogun"
+   },
+   {
+    "plan": "Build",
+    "priceUsdMonthly": 39,
+    "annualUsdPerMonth": 31,
+    "limits": "25 published pages",
+    "trialDays": 10,
+    "priceSource": "https://apps.shopify.com/shogun"
+   },
+   {
+    "plan": "Grow",
+    "priceUsdMonthly": 199,
+    "annualUsdPerMonth": 159,
+    "limits": "Unlimited published pages",
+    "trialDays": 10,
+    "priceSource": "https://apps.shopify.com/shogun"
+   },
+   {
+    "plan": "Advanced",
+    "priceUsdMonthly": 499,
+    "annualUsdPerMonth": 399,
+    "limits": "Unlimited pages, store syncing",
+    "trialDays": 10,
+    "priceSource": "https://apps.shopify.com/shogun"
+   }
+  ],
+  "sources": [
+   "https://apps.shopify.com/shogun"
+  ],
+  "checked": "2026-09-28",
+  "notes": null
+ }
+]
